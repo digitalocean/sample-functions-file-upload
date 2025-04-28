@@ -1,3 +1,6 @@
+> ⚠️ **This repository is archived and kept for reference purposes only.**  
+> It is no longer maintained and will not receive updates or support.
+
 ## Getting Started
 
 This is a sample of how to upload files to  [DigitalOcean Spaces](https://cloud.digitalocean.com/spaces) using deploys a Functions and Static Site component on App Platform. 
